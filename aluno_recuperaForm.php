@@ -1,0 +1,11 @@
+<?php
+    //$id_aluno=trim($_POST["id_aluno_"]);
+    $nome=trim(strtoupper($_POST['nome_']));
+    $data_nasc=trim($_POST['data_nasc_']);
+    $email=trim(strtolower($_POST['email_']));
+    $celular=trim($_POST['celular_']);
+    $pais=trim($_POST['pais_']);
+    $plataforma=trim($_POST['plataforma_']);
+    $genero_jogo=trim($_POST['genero_jogo_']);
+    $genero_sexo=trim($_POST['genero_sexo_']);
+    $jogo_fav=trim($_POST['jogo_fav_']);
