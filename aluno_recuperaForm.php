@@ -1,6 +1,6 @@
 <?php
     //$id_aluno=trim($_POST["id_aluno_"]);
-    $nome=trim(strtoupper($_POST['nome_']));
+    $nome=trim(strtoupper($_POST['nome']));
     $data_nasc=trim($_POST['data_nasc_']);
     $email=trim(strtolower($_POST['email_']));
     $celular=trim($_POST['celular_']);
