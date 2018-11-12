@@ -27,7 +27,7 @@ if($acao == "inserir"){
         <tr>
     
             Nome:<br>
-            <input type="text" name="nome_" value=""><br><br>
+            <input type="text" name="nome" value=""><br><br>
             
             Data de Nascimento:<br>
             <input type="text" name="data_nasc_" placeholder="aaaa-mm-dd"><br><br>
